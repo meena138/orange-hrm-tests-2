@@ -6,3 +6,9 @@ password_locator: "password"
 login_button_locator: '//*[@id="app"]/div[1]/div/div[1]/div/div[2]/div[2]/form/div[3]/button'
 
 admin_locator: '//*[@id="app"]/div[1]/div[1]/aside/nav/div[2]/ul/li[1]/a/span'
+
+forgot_password_locator: '//*[@id="app"]/div[1]/div/div[1]/div/div[2]/div[2]/form/div[4]/p'
+reset_password_username_locator: "username"
+reset_password_submit_button_locator: '//*[@id="app"]/div[1]/div[1]/div/form/div[2]/button[2]'
+reset_passwoord_success_message_locator: '//*[@id="app"]/div[1]/div[1]/div/h6'
+reset_password_title_locator: '//*[@id="app"]/div[1]/div[1]/div/form/h6'
